@@ -1,0 +1,14 @@
+font5x7.h
+main.bin
+main.elf
+main.hex
+main.lst
+main.map
+main.o
+main.srec
+.vs/ProjectSettings.json
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+.vs/seiralCom/v15/.suo
+.vscode/c_cpp_properties.json
+.vscode/settings.json
